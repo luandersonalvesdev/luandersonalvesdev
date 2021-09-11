@@ -1,7 +1,7 @@
 ### Oii. Sou Luanderson e é um prazer a sua visita aqui! 😊
 
-- 🌱 Estou atualmente no inicio do aprendizado de forma independente (em nenhuma instituição) em Dev Mobile / Android / Java
-- 📫 Contate-me: luaoderson@gmail.com
+- Estou atualmente no inicio do aprendizado de forma independente (em nenhuma instituição) em Dev Mobile / Android / Java
+- Contate-me: luaoderson@gmail.com
 
 <div>
   <a href="https://github.com/luandersondev">
