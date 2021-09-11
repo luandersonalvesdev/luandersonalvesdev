@@ -1,6 +1,6 @@
 ### Oii. Sou Luanderson e é um prazer a sua visita aqui! 😊
 
-- Estou atualmente no inicio do aprendizado de forma independente (em nenhuma instituição) em Dev Mobile / Android / Java
+- Estou atualmente no inicio do aprendizado em Dev Mobile / Android / Java.
 - Contate-me: luaoderson@gmail.com
 
 <div>
