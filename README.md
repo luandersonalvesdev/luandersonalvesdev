@@ -1,6 +1,6 @@
 ### Oi. Sou Luanderson e é um prazer a sua visita aqui! 🙂
 
-- Atualmente estudando HTML, CSS e JavaScript.
+- Atualmente estudando para ser um Full Stack em desenvolvimento web.
 - Contate-me: luaoderson@gmail.com
 
 <div>
