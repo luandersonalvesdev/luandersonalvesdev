@@ -1,6 +1,6 @@
-### Oi. Sou Luanderson e é um prazer a sua visita aqui! 😊
+### Oi. Sou Luanderson e é um prazer a sua visita aqui! 🙂
 
-- Estou atualmente estudando HTML e CSS.
+- Atualmente estudando HTML, CSS e JavaScript.
 - Contate-me: luaoderson@gmail.com
 
 <div>
@@ -12,8 +12,10 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt= "Luanderson-Android" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="Luanderson-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ 
+  <img align="center" alt="Luanderson-HMTL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Luanderson-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Luanderson-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     
   ##
   
