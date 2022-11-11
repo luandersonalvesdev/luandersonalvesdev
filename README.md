@@ -1,6 +1,6 @@
 ### Oi. Sou Luanderson e é um prazer a sua visita aqui! 🙂
 
-- Atualmente estudando na Trybe para ser um Full Stack em desenvolvimento web.
+- Atualmente estudando desenvolvimento web na Trybe.
 - Contate-me: luaoderson@gmail.com
 
 <div align="center">
