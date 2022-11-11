@@ -1,4 +1,4 @@
-### Oi. Sou Luanderson e é um prazer a sua visita aqui! 🙂
+### Oi. Seja bem vindo ao meu repositório Github 🙂
 
 - Atualmente estudando desenvolvimento web na Trybe.
 - Contate-me: luaoderson@gmail.com
