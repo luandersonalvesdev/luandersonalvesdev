@@ -1,7 +1,6 @@
 ### Oi. Seja bem vindo ao meu repositório Github 🙂
 
 - Atualmente estudando desenvolvimento web na Trybe.
-- Contate-me: luaoderson@gmail.com
 
 <div align="center">
   <a href="https://github.com/luandersonalvesdev">
