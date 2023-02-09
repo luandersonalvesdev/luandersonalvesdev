@@ -17,6 +17,8 @@
   <img align="center" title="JavaScript" alt="Luanderson-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" title="Java" alt="Luanderson-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" title="Android Studio" alt="Luanderson-Android-Studio" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" title="Jest" alt="Luanderson-Jest" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    
     
     
   ## Meus contatos
