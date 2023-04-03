@@ -2,9 +2,6 @@
 
 - Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank"> Trybe.
 #
-
-  
-  <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   
  ## Conhecimento
