@@ -1,17 +1,13 @@
-### Oi. Seja bem vindo ao meu repositório Github 🙂
+### Oi. Seja bem vindo ao meu repositório 🙂
 
-- Atualmente estudando desenvolvimento web na Trybe.
+- Atualmente estudando desenvolvimento web na <a href="https://www.betrybe.com/" target="_blank"> Trybe.
+#
 
-<div align="center">
-  <a href="https://github.com/luandersonalvesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luandersonalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandersonalvesdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   
- ## Tecnologias já estudadas
+ ## Conhecimento
   <img align="center" title="HTML" alt="Luanderson-HMTL" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" title="CSS" alt="Luanderson-CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" title="JavaScript" alt="Luanderson-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
