@@ -13,13 +13,8 @@
 <br>
 
 ## **Olá! / Hello!**
-
-
 🇧🇷 Seja bem vindo ao meu repositório github! <br>
 🇺🇸 Welcome to my github repository!
-
-<div style="display: inline_block"><br>
-
 
 ## **Sobre / About**
 
@@ -33,8 +28,6 @@ Tive meu primeiro contato com programação em um curso de informática em 2019 
 My name is Luanderson Alves, current living in Bahia, Brazil and learning web development to be a fullstack on <a href="https://www.betrybe.com/">Trybe</a>. <br>
 <br>
 Tive meu primeiro contato com programação em um curso de informática em 2019 e fiquei encantado com esse mundo, desde então, venho dia após dia com mais vontade de evoluir tanto em _hardskill_ quanto em _softskill_.
-<br>
-<br>
   
  ## **Habilidades / Skills**
 <div>
@@ -43,10 +36,12 @@ Tive meu primeiro contato com programação em um curso de informática em 2019 
   <img src="https://img.shields.io/badge/JavaScript-FDECEF?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Jest-FDECEF?style=for-the-badge&logo=jest&logoColor=black">  
   <img src="https://img.shields.io/badge/react-FDECEF?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/testing%20library-FDECEF?style=for-the-badge&logo=testing-library&logoColor=black">
   <img src="https://img.shields.io/badge/React_Router-FDECEF?style=for-the-badge&logo=react-router&logoColor=black">
   <img src="https://img.shields.io/badge/redux-FDECEF?style=for-the-badge&logo=redux&logoColor=black">
   <img src="https://img.shields.io/badge/Java-FDECEF?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/androidstudio-FDECEF?style=for-the-badge&logo=androidstudio&logoColor=black">
+  <img src="https://img.shields.io/badge/android%20studio-FDECEF?style=for-the-badge&logo=androidstudio&logoColor=black">
   <img src="https://img.shields.io/badge/figma-FDECEF?style=for-the-badge&logo=figma&logoColor=black"> 
+  <img src="https://img.shields.io/badge/photoshop-FDECEF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
   <img src="https://img.shields.io/badge/git-FDECEF?style=for-the-badge&logo=git&logoColor=black"> 
 </div>
