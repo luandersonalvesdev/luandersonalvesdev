@@ -27,7 +27,7 @@ Tive meu primeiro contato com programação em um curso de informática em 2019 
 🇺🇸 <br>
 My name is Luanderson Alves, current living in Bahia, Brazil and learning web development to be a fullstack on <a href="https://www.betrybe.com/">Trybe</a>. <br>
 <br>
-Tive meu primeiro contato com programação em um curso de informática em 2019 e fiquei encantado com esse mundo, desde então, venho dia após dia com mais vontade de evoluir tanto em _hardskill_ quanto em _softskill_.
+I had my first contact with programming in a computer course in 2019 and I was delighted with this world, since then, I come day after day with more desire to evolve both in _hardskill_ and in _softskill_.
   
  ## **Habilidades / Skills**
 <div>
