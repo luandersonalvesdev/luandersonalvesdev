@@ -36,9 +36,16 @@ I had my first contact with programming in a computer course in 2019 and I was d
   <img src="https://img.shields.io/badge/JavaScript-FDECEF?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Jest-FDECEF?style=for-the-badge&logo=jest&logoColor=black">  
   <img src="https://img.shields.io/badge/react-FDECEF?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/bootstrap-FDECEF?style=for-the-badge&logo=bootstrap&logoColor=black">
   <img src="https://img.shields.io/badge/testing%20library-FDECEF?style=for-the-badge&logo=testing-library&logoColor=black">
   <img src="https://img.shields.io/badge/React_Router-FDECEF?style=for-the-badge&logo=react-router&logoColor=black">
   <img src="https://img.shields.io/badge/redux-FDECEF?style=for-the-badge&logo=redux&logoColor=black">
+  <img src="https://img.shields.io/badge/vite-FDECEF?style=for-the-badge&logo=vite&logoColor=black">
+  <img src="https://img.shields.io/badge/docker-FDECEF?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/mysql-FDECEF?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/express-FDECEF?style=for-the-badge&logo=express&logoColor=black">
+  <img src="https://img.shields.io/badge/mocha-FDECEF?style=for-the-badge&logo=mocha&logoColor=black">
+  <img src="https://img.shields.io/badge/chai-FDECEF?style=for-the-badge&logo=chai&logoColor=black">
   <img src="https://img.shields.io/badge/Java-FDECEF?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/android%20studio-FDECEF?style=for-the-badge&logo=androidstudio&logoColor=black">
   <img src="https://img.shields.io/badge/figma-FDECEF?style=for-the-badge&logo=figma&logoColor=black"> 
