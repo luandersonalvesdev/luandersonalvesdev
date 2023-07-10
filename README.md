@@ -43,6 +43,7 @@ I had my first contact with programming in a computer course in 2019 and I was d
   <img src="https://img.shields.io/badge/vite-FDECEF?style=for-the-badge&logo=vite&logoColor=black">
   <img src="https://img.shields.io/badge/docker-FDECEF?style=for-the-badge&logo=docker&logoColor=black">
   <img src="https://img.shields.io/badge/mysql-FDECEF?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/sequelize-FDECEF?style=for-the-badge&logo=sequelize&logoColor=black">
   <img src="https://img.shields.io/badge/express-FDECEF?style=for-the-badge&logo=express&logoColor=black">
   <img src="https://img.shields.io/badge/mocha-FDECEF?style=for-the-badge&logo=mocha&logoColor=black">
   <img src="https://img.shields.io/badge/chai-FDECEF?style=for-the-badge&logo=chai&logoColor=black">
