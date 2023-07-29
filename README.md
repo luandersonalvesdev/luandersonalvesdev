@@ -36,6 +36,7 @@ I had my first contact with programming in a computer course in 2019 and I was d
   <img src="https://img.shields.io/badge/JavaScript-FDECEF?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Jest-FDECEF?style=for-the-badge&logo=jest&logoColor=black">  
   <img src="https://img.shields.io/badge/react-FDECEF?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/tailwindcss-FDECEF?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/bootstrap-FDECEF?style=for-the-badge&logo=bootstrap&logoColor=black">
   <img src="https://img.shields.io/badge/testing%20library-FDECEF?style=for-the-badge&logo=testing-library&logoColor=black">
   <img src="https://img.shields.io/badge/React_Router-FDECEF?style=for-the-badge&logo=react-router&logoColor=black">
