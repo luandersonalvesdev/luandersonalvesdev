@@ -5,7 +5,7 @@
   <a href="https://luandersonalvesdev.github.io/portfolio/">
     <img width="130px" height="30px" src="https://img.shields.io/badge/portfolio-FDECEF?style=for-the-badge&logo=github&logoColor=black">
   </a>
-  <a href="https://www.linkedin.com/in/luandersonalvesdev/">
+  <a href="mailto:luaoderson@gmail.com?">
     <img width="100px" height="30px" src="https://img.shields.io/badge/gmail-FDECEF?style=for-the-badge&logo=gmail&logoColor=black">
   </a>
 </div>
