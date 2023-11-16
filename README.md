@@ -51,6 +51,7 @@ I had my first contact with programming in a computer course in 2019 and I was d
   <img src="https://img.shields.io/badge/chai-FDECEF?style=for-the-badge&logo=chai&logoColor=black">
   <img src="https://img.shields.io/badge/Java-FDECEF?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/android%20studio-FDECEF?style=for-the-badge&logo=androidstudio&logoColor=black">
+  <img src="https://img.shields.io/badge/kotlin-FDECEF?style=for-the-badge&logo=kotlin&logoColor=black">
   <img src="https://img.shields.io/badge/figma-FDECEF?style=for-the-badge&logo=figma&logoColor=black"> 
   <img src="https://img.shields.io/badge/photoshop-FDECEF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
   <img src="https://img.shields.io/badge/git-FDECEF?style=for-the-badge&logo=git&logoColor=black"> 
