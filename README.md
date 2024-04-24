@@ -13,14 +13,14 @@
 <br>
 
 🇧🇷 
-#### Olá, 👋 
+### Olá, 👋 
 meu nome é Luanderson Alves e atualmente moro na Bahia, Brasil. Em janeiro de 2024, obtive minha formação como desenvolvedor web fullstack pela [Trybe](https://www.betrybe.com) sendo honrado com o título de [aluno destaque](https://www.credential.net/a3bb1111-88a3-47a0-88ab-50b4ebcdceb2#gs.6n6jj4). 🧑‍🎓
 <br>
 Minha jornada rumo à programação teve início em 2019, quando participei de um curso de informática. Desde então, percebi que este é o meu verdadeiro chamado. A cada dia, sinto uma crescente vontade de evoluir não apenas minhas habilidades técnicas, mas também minhas habilidades interpessoais.
 
 
 🇺🇸
-#### Hy, 👋
+### Hy, 👋
 my name is Luanderson Alves, and I currently live in Bahia, Brazil. In January 2024, I graduated as a fullstack web developer from  [Trybe](https://www.betrybe.com), being honored as the [outstanding student](https://www.credential.net/a3bb1111-88a3-47a0-88ab-50b4ebcdceb2#gs.6n6jj4). 🧑‍🎓
 <br>
 My journey into programming began in 2019 when I took a computer course. Since then, I realized that this is my true calling. Every day, I feel an increasing desire to evolve not only my technical skills but also my interpersonal skills.
